@@ -1,0 +1,1 @@
+from cfnet.model import CFNet      ## cf12_4 修改脚本  base_123## 514   训练出来的
